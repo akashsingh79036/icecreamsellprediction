@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
 import pickle
 import streamlit as st
